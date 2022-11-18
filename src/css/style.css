@@ -1,0 +1,33 @@
+.container {
+    padding-top: 130px;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Public Sans', sans-serif;
+}
+
+.pinturas {
+    display: inline-block;
+    position: relative;
+    padding: 5px;
+    margin: 5px;
+}
+.title{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 30px;
+    display: inline-block;
+    position: absolute;
+    padding-top: 300px;
+    padding-left: 10px;
+
+
+}
+.autor {
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 17px;
+    display: inline-block;
+    position: absolute;
+    padding-top: 340px;
+    padding-left: 10px;
+}
